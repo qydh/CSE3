@@ -1,4 +1,4 @@
-"""
+'''
 # print("Hello world")
 # # This is a new line of code
 #
@@ -88,11 +88,11 @@ def grade_calc(percentage):
         return "F"
 
 
-'''Write a function called "happy_bday"
+"""Write a function called "happy_bday"
 that "sings" (prints) Happy birthday
 
 It must take one parameter called "name"
-'''
+"""
 
 
 def happy_bday(name):
@@ -120,7 +120,7 @@ while a <= 10:
 
 import random  # This should be on line 1
 print(random.randint(0, 100))
-"""
+
 
 
 # Lists
@@ -175,3 +175,40 @@ print(string.digits)
 strTwo = "ThIs iS a VeRY oDd sEnTenCE"
 lowercase = strTwo.lower()
 print(lowercase)
+'''
+
+# Dictionaries - Made up of Key: Value pairs
+dictionary = {'name': 'Lance', 'age': 23, 'height': 5 * 12 + 7}
+
+# Accessing dictionaries
+print(dictionary['name'])
+print(dictionary['age'])
+print(dictionary['height'])
+
+large_dictionary = {
+    'CA': 'California',
+    'FL': 'Florida',
+    'OH': 'Ohio'
+}
+
+print(large_dictionary['FL'])
+
+larger_dictionary = {
+    'CA': [
+        'Fresno',
+        'Sacramento',
+        'Los Angeles'
+    ],
+    'FL': [
+        "Tampa",
+        "Orlando",
+        "Miami"
+    ],
+    'OH': [
+        "Cleavland",
+        "Cincinnati",
+    ]
+}
+
+print(larger_dictionary['FL'])
+print(larger_dictionary["FL"][2])
