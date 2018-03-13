@@ -11,91 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="notes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes.py">
+      <file leaf-file-name="Inheritance Notes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Inheritance Notes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13409">
-              <caret line="253" column="19" lean-forward="false" selection-start-line="253" selection-start-column="19" selection-end-line="253" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mr Wiebe - Dictionary World Map.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mr Wiebe - Dictionary World Map.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2226">
-              <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Function Notes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Function Notes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1348">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Class Notes.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class Notes.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4028">
-              <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mr. Wiebe - World Map OOP.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Mr. Wiebe - World Map OOP.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Largest_dictionary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Largest_dictionary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1643">
-              <caret line="31" column="1" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="31" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mr. Wiebe - Hangman.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Hangman.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mr. Wiebe - Guessgame.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Guessgame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GuessGame Sample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GuessGame Sample.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="104">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -127,6 +47,8 @@
         <option value="$PROJECT_DIR$/Function Notes.py" />
         <option value="$PROJECT_DIR$/Class Notes.py" />
         <option value="$PROJECT_DIR$/Mr. Wiebe - World Map OOP.py" />
+        <option value="$PROJECT_DIR$/Mr. Wiebe - Characters.py" />
+        <option value="$PROJECT_DIR$/Inheritance Notes.py" />
       </list>
     </option>
   </component>
@@ -183,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Class Notes">
+  <component name="RunManager" selected="Python.Inheritance Notes">
     <configuration name="Class Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,6 +137,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="CSE3" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Function Notes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Inheritance Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CSE3" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance Notes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -272,19 +212,21 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <list size="5">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Jupyter Notebook.CSE3" />
       <item index="1" class="java.lang.String" itemvalue="Python.notes" />
       <item index="2" class="java.lang.String" itemvalue="Python.Mr Wiebe - Dictionary World Map" />
       <item index="3" class="java.lang.String" itemvalue="Python.Function Notes" />
       <item index="4" class="java.lang.String" itemvalue="Python.Class Notes" />
+      <item index="5" class="java.lang.String" itemvalue="Python.Inheritance Notes" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.Class Notes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Function Notes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Mr Wiebe - Dictionary World Map" />
-        <item index="3" class="java.lang.String" itemvalue="Python.notes" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Inheritance Notes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Class Notes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Function Notes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Mr Wiebe - Dictionary World Map" />
+        <item index="4" class="java.lang.String" itemvalue="Python.notes" />
       </list>
     </recent_temporary>
   </component>
@@ -308,16 +250,16 @@
     <frame x="1912" y="261" width="1552" height="840" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.07421875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20793433" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.064295486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -336,6 +278,86 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13409">
+          <caret line="253" column="19" lean-forward="false" selection-start-line="253" selection-start-column="19" selection-end-line="253" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mr Wiebe - Dictionary World Map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Function Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4028">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - World Map OOP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Largest_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1643">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Hangman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Guessgame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="false" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GuessGame Sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13409">
@@ -457,17 +479,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Largest_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1643">
-          <caret line="31" column="1" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="31" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13409">
+        <state relative-caret-position="0">
           <caret line="253" column="19" lean-forward="false" selection-start-line="253" selection-start-column="19" selection-end-line="253" selection-end-column="19" />
           <folding />
         </state>
@@ -524,18 +538,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mr Wiebe - Dictionary World Map.py">
+    <entry file="file://$PROJECT_DIR$/Function Notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2226">
-          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        <state relative-caret-position="371">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Function Notes.py">
+    <entry file="file://$PROJECT_DIR$/Mr Wiebe - Dictionary World Map.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1348">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="1325">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="42" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -543,15 +557,39 @@
     <entry file="file://$PROJECT_DIR$/Class Notes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4028">
-          <caret line="76" column="0" lean-forward="true" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Mr. Wiebe - World Map OOP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="12" column="54" lean-forward="false" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        <state relative-caret-position="1113">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Largest_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mr. Wiebe - Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inheritance Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
